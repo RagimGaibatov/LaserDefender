@@ -160,3 +160,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af499239eaa1d1640bf4da0205e0549a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moveSpeed: 10
+  paddingLeft: 0.5
+  paddingRight: 0.5
+  paddingTop: 5
+  paddingBottom: 1
